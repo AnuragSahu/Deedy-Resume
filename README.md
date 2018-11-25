@@ -21,6 +21,4 @@ In order to see the the resume<br>
  
  ## Snapshot
  
- ![Loading Resume Image](
-        Deedy-Resume/Screenshot 2018-11-25 14:56:22.png
-      )
+ ![Loading Resume Image](OpenFonts/sample-image.png)
