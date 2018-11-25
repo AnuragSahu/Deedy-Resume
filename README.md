@@ -21,4 +21,4 @@ In order to see the the resume<br>
  
  ## Snapshot
  
- ![Loading Resume Image](OpenFonts/sample-image.png)
+ ![Loading Resume Image](OpenFonts/my-sample.png)
