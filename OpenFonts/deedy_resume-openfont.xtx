@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\namesection{Anurag}{Sahu}{ \urlstyle{same}%\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
+%\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -76,29 +76,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{minipage}[t]{0.33\textwidth} 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EDUCATION
+%     Contact
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Education} 
-
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
-\sectionsep
-
-\subsection{Cornell University}
-\descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
-\sectionsep
-
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
+\section{Contact} 
+Phone  +91 7898067490 \\
+anuragsahu926@gmail.com \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -106,37 +89,42 @@ Major GPA: 3.9 / 4.0}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+Facebook:// \href{https://www.facebook.com/Anuragboy1}{\bf Anurag-Sahu} \\
+Github:// \href{https://github.com/AnuragSahu}{\bf AnuragSahu} \\
+LinkedIn://  \href{https://www.linkedin.com/in/anurag-sahu-93ba27143/}{\bf Anurag-Sahu} \\
+%YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
+%Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
+Quora://  \href{https://www.quora.com/profile/Anurag-Sahu-25}{\bf Anurag-Sahu}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
-\sectionsep
+
+%\subsection{Graduate}
+%Advanced Machine Learning \\
+%Open Source Software Engineering \\
+%Advanced Interactive Graphics \\
+%Compilers + Practicum \\
+%Cloud Computing \\
+%Evolutionary Computation \\
+%Defending Computer Networks \\
+%Machine Learning \\
+%\sectionsep
 
 \subsection{Undergraduate}
-Information Retrieval \\
+%Information Retrieval \\
 Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
+Artificial Intelligence \\
+Algorithms \\
+Computation Complexity Theory \\
+%Artificial Intelligence + Practicum \\
+%Functional Programming \\
+%Computer Graphics + Practicum \\
+%{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
+%Unix Tools and Scripting \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -145,13 +133,20 @@ Unix Tools and Scripting \\
 \section{Skills}
 \subsection{Programming}
 \location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
+Java \textbullet{}  Python \textbullet{} Javascript \\ 
 \location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
+C \textbullet{} CSS \textbullet{} PHP \\
+ReactJS \textbullet{} Go \textbullet{} R \\
 \location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+Android \textbullet{} MySQL \textbullet{} Jupyter Notebook \\
 \sectionsep
+
+\section{Certificates}
+\subsection{Trainings}
+Diploma in Data Science \\
+Training in JAVA ( J2SE | J2EE | Android)
+\sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -168,51 +163,64 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
+\runsubsection{VLEAD}
+\descript{| Software Intern }
+\location{Aug 2018 - Present | Hyderabad, India}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Developed the Exeperiment module for Infix to postfix Exercise.
+\item Made the Video artefact for the Infix to Postfix Exercise.
+\end{tightemize}
+
 \sectionsep
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{Thought Applied Creations}
+\descript{| Software Engineering Intern }
+\location{Nov 2017 – Dec 2017 | Raipur, India}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\begin{tightemize}
+\item 2 out of 52 applicants chosen for the Internship.
+\item Completed the given task before the deadline.
+\item Appreciated for the work by the company head Mr TK Paul.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
-\begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection{IIIT Hyderabad}
+\descript{BTech in Computer Science}
+\location{Aug 2018 | Hyderabad, India}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
-\begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+\subsection{IIIT Naya Raipur}
+\descript{BTech in Computer Science}
+\location{Jun 2018 - Aug 2018 | Naya Raipur, India}
+\location{ Cum. GPA: 4.1 / 5.0 }
 \sectionsep
 
+\subsection{Sri Sankra Vidyalaya}
+\location{Grad. Jun 2016|  Hyderabad, India}
+\sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
-\sectionsep
-
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
-\sectionsep
+%\section{Research}
+%\runsubsection{Cornell Robot Learning Lab}
+%\descript{| Researcher}
+%\location{Jan 2014 – Jan 2015 | Ithaca, NY}
+%Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+%\sectionsep
+%
+%\runsubsection{Cornell Phonetics Lab}
+%\descript{| Head Undergraduate Researcher}
+%\location{Mar 2012 – May 2013 | Ithaca, NY}
+%Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
@@ -220,12 +228,14 @@ Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-
 
 \section{Awards} 
 \begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
+2018         & top 5 / 10000 Selected for admission through lateral Entry at IIIT Hyderabad. \\
+2017         & top 18 / 4500 Selected for Think Raipur conducted by RSCL. \\
+%2014	     & top 52/2500  & KPCB Engineering Fellow\\
+%2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
+%2013	     & National  & Jump Trading Challenge Finalist\\
+%2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
+%2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
+%2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
 \end{tabular}
 \sectionsep
 
@@ -233,11 +243,11 @@ Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
+%\section{Publications} 
+%\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+%\bibliographystyle{abbrv}
+%\bibliography{publications}
+%\nocite{*}
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
