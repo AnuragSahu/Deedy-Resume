@@ -17,7 +17,7 @@ In order to see the the resume<br>
 - git clone https://github.com/AnuragSahu/Deedy-Resume.git
 - cd Deedy-Resume/OpenFonts/
 - xelatex deedy_resume-openfonts.xtx
- and tada there you go the resume is up just check the deedy_resume-openfont.pdf
+- tada there you go the resume is up just check the deedy_resume-openfont.pdf
  
  ## Snapshot
  
